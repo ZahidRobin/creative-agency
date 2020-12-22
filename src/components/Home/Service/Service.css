@@ -1,0 +1,13 @@
+.single-service{
+    padding: 30px;
+}
+.single-service:hover{
+    box-shadow: 0px 5px 25px grey
+}
+.single-service h3{
+    font-size:20px
+}
+.single-service img{
+    height: 70px;
+    width: 70px
+}

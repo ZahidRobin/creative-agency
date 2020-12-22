@@ -1,0 +1,14 @@
+.headermain-area{
+    padding: 20px 0;
+}
+.headermain-area img{
+    width: 100%;
+}
+.headermain-descriptiom{
+    padding: 50px 0;
+    width: 300px;
+}
+.headermain-descriptiom h1{
+    font-size: 2.5em;
+    font-weight: bold;
+}

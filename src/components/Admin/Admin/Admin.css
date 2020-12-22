@@ -1,0 +1,35 @@
+.dashboard-area{
+    padding: 40px 20px;
+}
+.sidebar-menu img{
+    height: 50px;
+    margin-bottom: 30px
+}
+.sidebar-menu ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.sidebar-menu ul li{
+    display: block;
+    padding: 5px 0px;
+}
+.sidebar-menu ul li a{
+    color: #000;
+    font-size: 18px;
+}
+.sidebar-menu ul li a> .svg-inline--fa{
+    margin-right:10px;
+}
+a.selected, a.active{
+    color: #039546 !important;
+}
+.sidebar-menu ul li:hover a,.sidebar-menu ul li:hover .svg-inline--fa{
+    text-decoration: none;
+    color: #039546 !important;
+}
+.admin-content{
+    background: #F4F7FC;
+    padding: 30px;
+    width: 100%;
+}

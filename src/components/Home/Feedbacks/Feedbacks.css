@@ -1,0 +1,9 @@
+.feedbacks-area{
+    padding: 60px 0;
+}
+.feedbacks-area h2{
+    color: #171B4E;   
+}
+.feedbacks-area h2>span{
+    color: #7AB259
+}

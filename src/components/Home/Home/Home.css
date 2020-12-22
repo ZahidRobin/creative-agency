@@ -1,0 +1,21 @@
+.header-area{
+    background: #FBD062;
+    position: relative;
+    min-height: 92vh;
+}
+.header-area:before{
+    position: absolute;
+    content:'';
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background: #fff;
+    clip-path: polygon(100% 0,0 100%,100% 100%);
+}
+.carousel-area{
+    background: #111430
+}
+.footer-area{
+    background: #FBD062;
+}

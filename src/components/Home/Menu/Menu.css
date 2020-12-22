@@ -1,0 +1,30 @@
+.navbar-brand a img{
+    height: 40px;
+    width: auto;
+}
+.navbar{
+    padding: 1rem 0 !important;
+}
+.navbar-nav{
+    padding: 10px 40px !important;
+    padding-left: 0 !important;
+}
+.navbar-nav:last-child{
+    padding-right: 0 !important;
+}
+.navbar-nav .btn{
+    padding: .375rem 2rem;
+}
+.navbar-nav a{
+    text-decoration: none;
+    color: #000;
+    transition: 1s;
+}
+.navbar-nav a:hover{
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+.navbar-nav:last-child{
+    padding: 5px 0px!important;
+}

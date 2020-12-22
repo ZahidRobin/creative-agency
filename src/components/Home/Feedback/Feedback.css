@@ -1,0 +1,23 @@
+.single-feedback{
+    padding: 20px;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    border-left-width: 2px;
+    border-top-width: 2px;
+}
+.feedback-title{
+    display: flex;
+    margin-bottom: 10px;
+}
+.feedback-title h3{
+    font-size: 22px;
+    font-weight: bold;
+}
+.feedback-title h5{
+    font-size:15px;
+    font-weight: bold;
+}
+.feedback-title img{
+    height: 60px;
+    margin-right: 10px;
+}

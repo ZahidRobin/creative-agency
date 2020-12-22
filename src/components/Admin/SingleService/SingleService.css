@@ -1,0 +1,10 @@
+.singleServiceHeader img{
+    height: 60px;
+}
+.singleServices{
+    width: 100%;
+    background: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
